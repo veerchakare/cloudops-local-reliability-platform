@@ -11,7 +11,7 @@ The goal of this project is to progressively build a production-style DevOps rel
 ## Current Status
 
 Day 1 — Project foundation and Git repository setup.
-
+Day 2 — inux Permissions, Users & Groups + permission_audit.sh
 ## Planned Capabilities
 
 - System information collection
